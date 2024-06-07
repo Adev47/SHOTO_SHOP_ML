@@ -1,6 +1,6 @@
-MW3 UA + WOOFER,online
-MW3 UA + WOOFER V2,online
-MW3 CHAIR + WOOFER,online
-MW3 AIO,online
+UA + WOOFER,online
+UA + WOOFER V2,online
+UA + WOOFER V3,online
+CHAIR + WOOFER,online
+AIO + WOOFER,online
 SPOOFER BLOCKER,online
-VPN,online
